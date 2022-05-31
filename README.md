@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @jsurdy
+- Im a Computer Science student at Grinnell College, and am trying to get better at coding/get involved with comp sci and software engineering communities!
